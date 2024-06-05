@@ -1,0 +1,1 @@
+# fabricjs-rect-text-box-test
